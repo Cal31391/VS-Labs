@@ -1,0 +1,9 @@
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\bin\Debug\cleeCarpetCalc.exe.config
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\bin\Debug\cleeCarpetCalc.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\bin\Debug\cleeCarpetCalc.pdb
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Debug\cleeCarpetCalc.csprojResolveAssemblyReference.cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Debug\cleeCarpetCalc.Main_CarpetCalculator.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Debug\cleeCarpetCalc.Properties.Resources.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Debug\cleeCarpetCalc.csproj.GenerateResource.Cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Debug\cleeCarpetCalc.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Debug\cleeCarpetCalc.pdb

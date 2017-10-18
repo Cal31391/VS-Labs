@@ -1,0 +1,9 @@
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\bin\Debug\clee_SpeedingTicket.exe.config
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\bin\Debug\clee_SpeedingTicket.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\bin\Debug\clee_SpeedingTicket.pdb
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\obj\Debug\clee_SpeedingTicket.csprojResolveAssemblyReference.cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\obj\Debug\clee_SpeedingTicket.Main_TicketCalculator.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\obj\Debug\clee_SpeedingTicket.Properties.Resources.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\obj\Debug\clee_SpeedingTicket.csproj.GenerateResource.Cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\obj\Debug\clee_SpeedingTicket.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab2\clee_SpeedingTicket\clee_SpeedingTicket\obj\Debug\clee_SpeedingTicket.pdb

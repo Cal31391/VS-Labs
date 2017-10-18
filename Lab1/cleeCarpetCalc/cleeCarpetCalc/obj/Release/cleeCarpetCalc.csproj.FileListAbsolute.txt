@@ -1,0 +1,11 @@
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\bin\Release\cleeCarpetCalc.exe.config
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\bin\Release\cleeCarpetCalc.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\bin\Release\cleeCarpetCalc.pdb
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.Main_CarpetCalculator.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.Properties.Resources.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.csproj.GenerateResource.Cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.pdb
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab1\cleeCarpetCalc\cleeCarpetCalc\bin\Release\cleeCarpetCalc.exe.config
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab1\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab1\cleeCarpetCalc\cleeCarpetCalc\obj\Release\cleeCarpetCalc.pdb

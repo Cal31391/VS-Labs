@@ -1,0 +1,9 @@
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\bin\Debug\WindowsApplication.exe.config
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\bin\Debug\WindowsApplication.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\bin\Debug\WindowsApplication.pdb
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\obj\x86\Debug\text.csprojResolveAssemblyReference.cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\obj\x86\Debug\clee_JuiceBar.Form1.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\obj\x86\Debug\text.Properties.Resources.resources
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\obj\x86\Debug\text.csproj.GenerateResource.Cache
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Caroline\Google Drive\Class Folders\dotNET\Labs\Lab3\clee_JuiceBar\clee_JuiceBar\obj\x86\Debug\WindowsApplication.pdb
